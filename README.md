@@ -12,7 +12,7 @@ By developing this application we want to raise awareness of the impact of short
 
 ## About the data
 
-The data used in this application originates from [PSCN](https://psnc.org.uk/dispensing-supply/supply-chain/generic-shortages/') and the [NHS]('https://opendata.nhsbsa.net/dataset/english-prescribing-data-epd). We gather data on prescribing quantities and generic shortages on a monthly basis.  
+The data used in this application originates from [PSCN](https://psnc.org.uk/dispensing-supply/supply-chain/generic-shortages/') and the [NHS](https://opendata.nhsbsa.net/dataset/english-prescribing-data-epd). We gather data on prescribing quantities and generic shortages on a monthly basis.  
 
 ## About the authors
 
