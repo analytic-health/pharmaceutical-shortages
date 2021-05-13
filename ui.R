@@ -9,10 +9,17 @@ bs4DashPage(
       
       shinyjs::useShinyjs(),
       
-      # include stylesheet ----
+      # include stylesheet
       tags$head(includeCSS("www/stylesheet.css")),
       
-      # include tracking code ----
+      # include favicon
+      tags$head(
+        tags$link(rel = "shortcut icon", href = "favicon.ico"),
+        tags$link(rel = "icon", href = "favicon.ico"),
+        tags$link(rel = "apple-touch-icon", sizes = "180x180", href = "apple-touch-icon.png")
+      ),
+      
+      # include tracking code
       tags$head(includeHTML(("google-analytics.html"))),
       
       absolutePanel(
