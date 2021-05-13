@@ -1,0 +1,4 @@
+/* hide footer in bs4Dash value boxes : */
+  .small-box-footer {
+    display: none !important;
+  }
