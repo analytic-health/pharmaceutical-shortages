@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 #rsconnect
 /rsconnect/
+
+# project files
+.Rproj

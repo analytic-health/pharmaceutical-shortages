@@ -12,21 +12,21 @@ By developing this application we want to raise awareness of the impact of short
 
 ## About the data
 
-The data used in this application originates from [PSCN]('https://psnc.org.uk/dispensing-supply/supply-chain/generic-shortages/') and the [NHS]('https://opendata.nhsbsa.net/dataset/english-prescribing-data-epd'). We gather data on prescribing quantities and generic shortages on a monthly basis.  
+The data used in this application originates from [PSCN](https://psnc.org.uk/dispensing-supply/supply-chain/generic-shortages/') and the [NHS]('https://opendata.nhsbsa.net/dataset/english-prescribing-data-epd). We gather data on prescribing quantities and generic shortages on a monthly basis.  
 
 ## About the authors
 
 This application was built by:
 
-* 👨‍💻  [Greg Mills]('https://github.com/analytichealth') (Managing Director and Founder at Analytic Health)
-* 👩‍💻 [Veerle van Leemput]('https://github.com/hypebright') (Managing Director and Head of Data Science at Analytic Health)
+* 👨‍💻  [Greg Mills](https://github.com/analytichealth) (Managing Director and Founder at Analytic Health)
+* 👩‍💻 [Veerle van Leemput](https://github.com/hypebright) (Managing Director and Head of Data Science at Analytic Health)
 
 Our mission is to accelerate innovation in healthcare by developing artificial intelligence technology. Gathering data and being able to analyze that data play a vital role in achieving this mission. 
 
 ## Live application
 
-This repo was used to submit our entry for the [Shiny Contest 2021]('https://blog.rstudio.com/2021/03/11/time-to-shiny/'). This repo contains a static dataset. To see our live version in action you can visit [this page]('https://apps.analytichealth.co.uk/shortages/'). 
+This repo was used to submit our entry for the [Shiny Contest 2021](https://blog.rstudio.com/2021/03/11/time-to-shiny/). This repo contains a static dataset. To see our live version in action you can visit [this page](https://apps.analytichealth.co.uk/shortages/). 
 
 ## More information
 
-We wrote a blog about this application [here]('https://analytichealth.co.uk/quantifying-the-financial-impact-of-uk-generic-pharmaceutical-shortages/'), where you can read more about the issue or contact us to discuss it further 💬 .
+We wrote a blog about this application [here](https://analytichealth.co.uk/quantifying-the-financial-impact-of-uk-generic-pharmaceutical-shortages/), where you can read more about the issue or contact us to discuss it further 💬 .
